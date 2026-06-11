@@ -52,10 +52,16 @@ The dataset contains customer shopping information including:
 
 ## Key Insights
 
-* Identified the **highest revenue-generating product categories**
-* Found **customer segments with the highest spending**
-* Observed **purchase trends across different demographics**
-* Analyzed **payment method preferences**
+## Key Business Insights
+
+* Male customers generated ₹157,890 in revenue compared to ₹75,191 from female customers, contributing nearly 68% of total sales. This indicates that the current customer base is heavily driven by male shoppers.
+
+* Young Adults generated the highest revenue at ₹62,143, followed by Middle-Aged customers at ₹59,197. This suggests that marketing campaigns targeted toward younger consumers could have the greatest revenue impact.
+
+* Customers with subscriptions generated ₹62,645 in revenue from 1,053 customers, while non-subscribers generated ₹170,436 from 2,847 customers. However, the average spend per customer was similar (₹59.49 vs ₹59.87), indicating that subscriptions may help customer retention more than increasing purchase value.
+
+* Customers choosing Express shipping spent slightly more on average (₹60.48) than those using Standard shipping (₹58.46), suggesting that higher-value customers may prefer faster delivery options.
+
 
 ## Dashboard
 
